@@ -1,6 +1,6 @@
 # Postage-Board
 A repository for all information and files related to the Postage Board
-![Postage Board](https://i.imgur.com/dEEdZGI.png)
+![Postage Board](https://i.imgur.com/C38yho7.png)
 
 **Postage Board**
 
