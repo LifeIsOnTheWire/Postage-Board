@@ -53,14 +53,14 @@ Yes.  However, keep in mind that you will also need to rotate the switches on th
 **Are there any issues that I might face needing to rotate 2nd Row switches 180 degrees?**
 
 Yes, there is one possible issue.  Some brands of Cherry-Profile keycaps have clearance issues when the switches are rotated.  You don't need to rotate all of the switches on the 2nd Row, only the ones directly beneath the Postage Board.  I have tested this myself with a few brands of Cherry Profile keycaps, and here are my findings:
-|Keycap| Result |
-|--|--|
-|Gateron PBT (EnjoyPBT)|No issues |
-|NPKC PBT (lots of Chinese sets)|No issues |
-|GMK Double-shot|Side-wall collides |
-|OEM Cherry-brand Double-shot|Side-wall collides |
-|OEM Cherry PBT|Untested |
-|OEM Cherry POM|Untested |
+
+
+Gateron PBT (EnjoyPBT)-----No issues 
+NPKC PBT (lots of Chinese sets)-----No issues 
+GMK Double-shot-----Side-wall collides 
+OEM Cherry-brand Double-shot-----Side-wall collides 
+OEM Cherry PBT-----Untested 
+OEM Cherry POM-----Untested 
 
 *All other keycap profiles (that are known to me) have no issues with being rotated.*  Keycap profiles like DSA and XDA are symmetrical in shape, so there isn't even a difference in the shape of the 4 sides of the keycap.  Even asymmetrical keycap profiles like SA or OEM don't appear to have any issues with being rotated.
 
