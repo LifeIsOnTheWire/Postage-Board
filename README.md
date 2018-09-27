@@ -50,6 +50,11 @@ Yes!  You can mount the Postage Board wherever there are 3 keys on your top row 
 
 Yes.  However, keep in mind that you will also need to rotate the switches on that edge accordingly to allow the board to face that way.  This might create keycap/switch collision issues with some brands of Cherry Profile keycaps.  See the question at the bottom regarding this.
 
+**What do I need to use these boards to make a split-layout?**
+If you ordered multiple boards, the TRRS jacks will be included, which you will need to solder to the boards (4 pins, very easy).
+
+The only components you will need to provide yourself are the TRRS cable itself, and 2x 4.7k resistors (0805 size).  The resistors are less than 1 penny each at most electronic component stores.  
+
 **Are there any issues that I might face needing to rotate 2nd Row switches 180 degrees?**
 
 Yes, there is one possible issue.  Some brands of Cherry-Profile keycaps have clearance issues when the switches are rotated.  You don't need to rotate all of the switches on the 2nd Row, only the ones directly beneath the Postage Board.  I have tested this myself with a few brands of Cherry Profile keycaps, and here are my findings:
