@@ -20,6 +20,7 @@ However, neither the Teensy, nor the Pro Micro are designed for keyboards specif
 
  - Uses an Atmega32u4 microcontroller.
  - Compatible with both Cherry MX and ALPS switches.
+ - Designed to use 19.05mm key spacing.
  - 25 IO pins available for your rows and columns, or other IO functions such as LEDs.
  - Can cover a TKL keyboard.  Could also cover a 104-key board if you got creative with your rows/columns.
  - Board is 5V, and the Atmega runs at 16mhz
